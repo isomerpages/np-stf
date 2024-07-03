@@ -23,7 +23,7 @@ sections:
       title: I'm a STARTUP
       id: infopic
       button: More
-      url: https://www.startuptalentfactory.np.edu.sg/startup.html
+      url: /startup/
       image: /images/header1_startup2023.png
       alt: Image alt text
   - infopic:
