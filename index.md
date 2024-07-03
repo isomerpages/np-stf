@@ -4,29 +4,33 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: STARTUP TALENT FACTORY
+      subtitle: We bring you the right talent.
+      background: /images/landing.jpg
+      button: Ask Us
+      url: askTSB@np.edu.sg
+      key_highlights:
+        - title: I'm a
+          description: STARTUP
+          url: https://www.startuptalentfactory.np.edu.sg/startup.html
+        - title: I'M A
+          description: STUDENT
+          url: https://www.startuptalentfactory.np.edu.sg/student.html
+  - infopic:
+      title: I'm a STARTUP
+      id: infopic
+      button: More
+      url: https://www.startuptalentfactory.np.edu.sg/startup.html
+      image: /images/header1_startup2023.png
+      alt: Image alt text
+  - infopic:
+      title: I'm a STUDENT
+      id: infopic
+      button: MORE
+      url: https://www.startuptalentfactory.np.edu.sg/student.html
+      image: /images/header2_student2023.png
+      alt: Image alt text
 ---
-
