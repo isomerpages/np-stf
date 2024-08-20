@@ -11,26 +11,27 @@ sections:
       subtitle: We bring you the right talent.
       background: /images/landing.jpg
       button: Ask Us
-      url: askTSB@np.edu.sg
+      url: mailto:askTSB@np.edu.sg
       key_highlights:
         - title: I'm a
           description: STARTUP
-          url: https://www.startuptalentfactory.np.edu.sg/startup.html
+          url: /startup/
         - title: I'M A
           description: STUDENT
-          url: https://www.startuptalentfactory.np.edu.sg/student.html
+          url: /student/
+      variant: center
   - infopic:
       title: I'm a STARTUP
       id: infopic
-      button: More
+      button: Find out more
       url: /startup/
       image: /images/header1_startup2023.png
       alt: Image alt text
   - infopic:
       title: I'm a STUDENT
       id: infopic
-      button: MORE
-      url: https://www.startuptalentfactory.np.edu.sg/student.html
+      button: Find out more
+      url: /student/
       image: /images/header2_student2023.png
       alt: Image alt text
 ---
