@@ -93,4 +93,7 @@ of $2,000 for training.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<hr>
+<h2><strong>Interested?</strong></h2>
+<p><a href="https://form.gov.sg/65408609dc686200117e2392" rel="noopener noreferrer nofollow" target="_blank">Sign up</a> and
+let us know the talents you need.</p>
