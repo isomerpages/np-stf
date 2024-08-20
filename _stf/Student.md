@@ -85,7 +85,7 @@ diploma from any of the 5 local polytechnics</p>
 <p>Be a Singapore Citizen / Permanent Resident</p>
 <hr>
 <h2><strong>Frequently Asked Questions</strong></h2>
-<p>Read our frequently asked questions <a href="https://www.startuptalentfactory.np.edu.sg/FAQ%20for%20students_2023_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Read our frequently asked questions <a href="/files/FAQ_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p></p>
 </li>
