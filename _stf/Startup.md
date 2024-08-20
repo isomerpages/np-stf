@@ -89,9 +89,8 @@ of $2,000 for training.</p>
 <h2><strong>frequently asked questions</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Read our frequently asked questions <a href="https://www.startuptalentfactory.np.edu.sg/FAQ%20for%20companies_2023%20v5.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Read our frequently asked questions <a href="/files/FAQ_for_companies_2023_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
