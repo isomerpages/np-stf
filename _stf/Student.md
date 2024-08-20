@@ -87,6 +87,9 @@ diploma from any of the 5 local polytechnics</p>
 <h2><strong>Frequently Asked Questions</strong></h2>
 <p>Read our frequently asked questions <a href="/files/FAQ_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
+<hr>
+<h2><strong>Interested?</strong></h2>
+<p>Apply for a job position <a href="https://form.gov.sg/654c1bc0051ec40012d7156e" rel="noopener noreferrer nofollow" target="_blank">here.</a>.</p>
 <p></p>
 </li>
 </ul>
