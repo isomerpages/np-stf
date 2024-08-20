@@ -1,4 +1,5 @@
 collections:
   stf:
     output: true
-    order: []
+    order:
+      - Startup.md
