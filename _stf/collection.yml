@@ -1,0 +1,6 @@
+collections:
+  stf:
+    output: true
+    order:
+      - Student.md
+      - Startup.md

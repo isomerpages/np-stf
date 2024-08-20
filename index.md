@@ -1,32 +1,37 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Startup Talent Factory
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/TSB_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: STARTUP TALENT FACTORY
+      subtitle: We bring you the right talent.
+      background: /images/landing.jpg
+      button: Ask Us
+      url: mailto:askTSB@np.edu.sg
+      key_highlights:
+        - title: I'm a
+          description: STARTUP
+          url: /startup/
+        - title: I'M A
+          description: STUDENT
+          url: /student/
+      variant: center
+  - infopic:
+      title: I'm a STARTUP
+      id: infopic
+      button: Find out more
+      url: /startup/
+      image: /images/header1_startup2023.png
+      alt: Image alt text
+  - infopic:
+      title: I'm a STUDENT
+      id: infopic
+      button: Find out more
+      url: /student/
+      image: /images/header2_student2023.png
+      alt: Image alt text
 ---
-
