@@ -69,6 +69,9 @@ in Entrepreneurship.</p>
 <li>
 <p>Training to support your career development</p>
 </li>
+<li>
+<p>Course fee will be sponsored by the hiring startup</p>
+</li>
 </ul>
 <hr>
 <h2><strong>You Need To…</strong></h2>
@@ -83,78 +86,6 @@ diploma from any of the 5 local polytechnics</p>
 </li>
 <li>
 <p>Be a Singapore Citizen / Permanent Resident</p>
-<hr>
-<h2><strong>Course Fees</strong></h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Applicants / Eligibility</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Fees</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Full Course Fee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>$5450.00</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore aged below 40, Singapore Permanent Residents qualified for SkillsFuture
-funding</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>$1635.00</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singaporeans aged 40 and above qualified for SkillsFuture Mid-Career Enhanced
-Subsidy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>$635.00</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singaporeans, Singapore Permanent Residents qualified for Enhanced Training
-Support for SMEs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>$635.00</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p><strong>Note:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The fees above are determined based on prevailing funding policies and
-subject to review and revision.</p>
-<p></p>
-</li>
-</ul>
-<p>Ngee Ann Polytechnic reserves the right to reschedule/cancel any programme,
-modify the fees and amend information without prior notice.</p>
 <hr>
 <h2><strong>Frequently Asked Questions</strong></h2>
 <p>Read our frequently asked questions <a href="/files/FAQ_for_students_2023_v2__1_.pdf" rel="noopener nofollow" target="_blank">here.</a>
