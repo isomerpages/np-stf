@@ -85,7 +85,6 @@ diploma from any of the 5 local polytechnics</p>
 <p>Be a Singapore Citizen / Permanent Resident</p>
 <hr>
 <h2><strong>Course Fees</strong></h2>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,6 +142,20 @@ Support for SMEs</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</li>
+<li>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The fees above are determined based on prevailing funding policies and
+subject to review and revision.</p>
+<p></p>
+</li>
+</ul>
+<p>Ngee Ann Polytechnic reserves the right to reschedule/cancel any programme,
+modify the fees and amend information without prior notice.</p>
 <hr>
 <h2><strong>Frequently Asked Questions</strong></h2>
 <p>Read our frequently asked questions <a href="/files/FAQ_for_students_2023_v2__1_.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/FAQ_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a>
