@@ -83,8 +83,7 @@ i.e. 12 months.</p>
 the talent.</p>
 </li>
 <li>
-<p>You get to develop the talent by sponsoring the estimated course fees
-of $2,000 for training.</p>
+<p>You get to develop the talent by sponsoring the course fees for training.</p>
 <hr>
 <h2><strong>Course Fees</strong></h2>
 <table style="minWidth: 50px">
