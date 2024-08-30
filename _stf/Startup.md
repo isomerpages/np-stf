@@ -89,7 +89,7 @@ of $2,000 for training.</p>
 <h2><strong>frequently asked questions</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Read our frequently asked questions <a href="/files/FAQ_for_companies_2023_v6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><a href="/files/FAQ_for_companies_2023_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a>
+<p>Read our frequently asked questions <a href="/files/FAQ_for_companies_2023_v6.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 </li>
 </ul>
