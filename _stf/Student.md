@@ -157,8 +157,6 @@ subject to review and revision.</p>
 modify the fees and amend information without prior notice.</p>
 <hr>
 <h2><strong>Frequently Asked Questions</strong></h2>
-<p>Read our frequently asked questions <a href="/files/FAQ_for_students_2023_v2__1_.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
 <hr>
 <h2><strong>Interested?</strong></h2>
 <p>Apply for a job position <a href="https://form.gov.sg/654c1bc0051ec40012d7156e" rel="noopener noreferrer nofollow" target="_blank">here.</a>.</p>
