@@ -142,7 +142,6 @@ Support for SMEs</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </li>
 <li>
 <p><strong>Note:</strong>
