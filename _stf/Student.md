@@ -69,6 +69,9 @@ in Entrepreneurship.</p>
 <li>
 <p>Training to support your career development</p>
 </li>
+<li>
+<p>Course fee will be sponsored by the hiring startup</p>
+</li>
 </ul>
 <hr>
 <h2><strong>You Need To…</strong></h2>
@@ -85,7 +88,7 @@ diploma from any of the 5 local polytechnics</p>
 <p>Be a Singapore Citizen / Permanent Resident</p>
 <hr>
 <h2><strong>Frequently Asked Questions</strong></h2>
-<p>Read our frequently asked questions <a href="/files/FAQ_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Read our frequently asked questions <a href="/files/FAQ_for_students_2023_v2__1_.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <hr>
 <h2><strong>Interested?</strong></h2>
